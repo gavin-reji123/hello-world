@@ -1,2 +1,5 @@
 # hello-world
-just another repository 
+
+hi people 
+im gavin im intrested in coding and a machine 
+learning enthusiast
